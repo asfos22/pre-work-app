@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/Ironpurush0/pre-work-app.git/static/css/main.2cce8147.chunk.css",
-    "main.js": "/Ironpurush0/pre-work-app.git/static/js/main.4d37eb3e.chunk.js",
-    "main.js.map": "/Ironpurush0/pre-work-app.git/static/js/main.4d37eb3e.chunk.js.map",
-    "runtime~main.js": "/Ironpurush0/pre-work-app.git/static/js/runtime~main.5ba89f70.js",
-    "runtime~main.js.map": "/Ironpurush0/pre-work-app.git/static/js/runtime~main.5ba89f70.js.map",
-    "static/js/2.0ceb4700.chunk.js": "/Ironpurush0/pre-work-app.git/static/js/2.0ceb4700.chunk.js",
-    "static/js/2.0ceb4700.chunk.js.map": "/Ironpurush0/pre-work-app.git/static/js/2.0ceb4700.chunk.js.map",
-    "index.html": "/Ironpurush0/pre-work-app.git/index.html",
-    "precache-manifest.9348841581a30570e0674e761e935acf.js": "/Ironpurush0/pre-work-app.git/precache-manifest.9348841581a30570e0674e761e935acf.js",
-    "service-worker.js": "/Ironpurush0/pre-work-app.git/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/Ironpurush0/pre-work-app.git/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/Ironpurush0/pre-work-app.git/static/media/logo.5d5d9eef.svg"
+    "main.css": "/pre-work-app/static/css/main.a8a95096.chunk.css",
+    "main.js": "/pre-work-app/static/js/main.466b8c0b.chunk.js",
+    "main.js.map": "/pre-work-app/static/js/main.466b8c0b.chunk.js.map",
+    "runtime~main.js": "/pre-work-app/static/js/runtime~main.7251e7f5.js",
+    "runtime~main.js.map": "/pre-work-app/static/js/runtime~main.7251e7f5.js.map",
+    "static/js/2.0c9e8005.chunk.js": "/pre-work-app/static/js/2.0c9e8005.chunk.js",
+    "static/js/2.0c9e8005.chunk.js.map": "/pre-work-app/static/js/2.0c9e8005.chunk.js.map",
+    "index.html": "/pre-work-app/index.html",
+    "precache-manifest.2d391d5c940728f1046f3a9524e6b5c6.js": "/pre-work-app/precache-manifest.2d391d5c940728f1046f3a9524e6b5c6.js",
+    "service-worker.js": "/pre-work-app/service-worker.js",
+    "static/css/main.a8a95096.chunk.css.map": "/pre-work-app/static/css/main.a8a95096.chunk.css.map"
   }
 }
