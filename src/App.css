@@ -1,33 +1,56 @@
-.App {
-  text-align: center;
+.marker {
+	background: none;
+	border: none;
+	cursor: pointer;
+	/* background-image: 'iconfinder_starbucks_coffee.png'; */
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-  pointer-events: none;
+.marker img {
+	width: 20px;
+	height: 20px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.map-container {
+	display: flex;
+	flex-flow: row;
+	height: 100vh;
 }
 
-.App-link {
-  color: #61dafb;
+.map-name {
+	background-color: green;
+	font-weight: bold;
+	text-align: center;
+	color: white;
+	width: 100%;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.list {
+	flex: .35;
+	border: 1px solid black;
+	cursor: pointer;
+	overflow: auto;
+	background: rgb(233, 230, 230);
+	scroll-behavior: auto;
+	font-size: 20px;
+	font-weight: 600;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	word-break: 8px;
+	height: 100vh;
+}
+
+.map {
+	flex: 2;
+	overflow: unset;
+	height: 100%;
+}
+
+.header {
+	background: green;
+	height: 35px;
+	color: white;
+	text-align: center;
+	font-size: 25px;
+	font-weight: bold;
+	line-height: -5px;
+	font-family: 'Times New Roman', Times, serif;
 }

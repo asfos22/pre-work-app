@@ -6,6 +6,7 @@
 	"dependencies": {
 		"react": "^16.9.0",
 		"react-dom": "^16.9.0",
+		"react-map-gl": "^5.0.10",
 		"react-scripts": "3.1.1"
 	},
 	"scripts": {
@@ -20,8 +21,16 @@
 		"extends": "react-app"
 	},
 	"browserslist": {
-		"production": [ ">0.2%", "not dead", "not op_mini all" ],
-		"development": [ "last 1 chrome version", "last 1 firefox version", "last 1 safari version" ]
+		"production": [
+			">0.2%",
+			"not dead",
+			"not op_mini all"
+		],
+		"development": [
+			"last 1 chrome version",
+			"last 1 firefox version",
+			"last 1 safari version"
+		]
 	},
 	"devDependencies": {
 		"gh-pages": "^2.1.1"
